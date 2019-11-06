@@ -4,7 +4,7 @@ FLUCCS
 
 SUT: System Under Test
 SBFL: Spectrum Based Fault Localisation
-  Variable definitions for ep, np, nf, ef vary --> "spectrum"
+  Variable definitions for ep, np, nf, ef ==> executed/ non-executed method , corresponding pass/fail
 Program Element: statement, predicate, function / method etc. 
 
 
