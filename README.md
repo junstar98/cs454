@@ -2,10 +2,10 @@
 
 FLUCCS
 
-SUT: System Under Test
-SBFL: Spectrum Based Fault Localisation
-  Variable definitions for ep, np, nf, ef ==> executed/ non-executed method , corresponding pass/fail
-Program Element: statement, predicate, function / method etc. 
+- SUT: System Under Test
+- SBFL: Spectrum Based Fault Localisation
+- Variable definitions for ep, np, nf, ef ==> executed/ non-executed method , corresponding pass/fail
+- Program Element: statement, predicate, function / method etc. 
 
 
 
@@ -23,8 +23,11 @@ From Source Code
   1. Set of SBFL scores using different SBFL formulae
   2. Set of code and change metrics
 
-"Method Level Localisation"
+"Method Level Localisation" --> can have same spectrum tuple
+
 Depency network in the unit of methods -- Call Graph Propagated (CGP)
+
+
 
 
 
